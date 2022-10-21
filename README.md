@@ -1,4 +1,5 @@
 # vue-devtools
+# 已经用 yarn 编译并打包过，在./packages/shell-chrome下
 
 ![screenshot](./media/screenshot-shadow.png)
 
